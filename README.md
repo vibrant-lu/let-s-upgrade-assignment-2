@@ -1,1 +1,1 @@
-# let-s-upgrade-assignment-2
+Prime numbers and Tables using Python
